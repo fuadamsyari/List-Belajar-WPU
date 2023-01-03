@@ -15,18 +15,19 @@ List apa yang akan saya pelajari dan yang telah saya pelajari di channel web pro
 9. PHP The RighgtWay ✅
 10. PHP Object Oriented ✅
 11. PHP MVC ✅
-12. Rest API
-13. Codeigniter 3
-14. Git & Github ✅
-15. Laravel 5.8
-16. JavaScript Lanjutan
-17. Flexbox ✅
-18. Css Grid ✅
-19. Kuliah Pemrograman WEB
-20. CodeIgniter 4
-21. Sass ✅
-22. Node JS
-23. Laravel 8
-24. Taillwind
-25. HTML 5
-26. Web Pack
+12. sweet alert
+13. Rest API
+14. Codeigniter 3
+15. Git & Github ✅
+16. Laravel 5.8
+17. JavaScript Lanjutan
+18. Flexbox ✅
+19. Css Grid ✅
+20. Kuliah Pemrograman WEB
+21. CodeIgniter 4
+22. Sass ✅
+23. Node JS
+24. Laravel 8
+25. Taillwind
+26. HTML 5
+27. Web Pack
