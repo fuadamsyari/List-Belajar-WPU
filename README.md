@@ -15,7 +15,7 @@ List apa yang akan saya pelajari dan yang telah saya pelajari di channel web pro
 9. PHP The RighgtWay ✅
 10. PHP Object Oriented ✅
 11. PHP MVC ✅
-12. sweet alert
+12. sweet alert ✅
 13. Rest API
 14. Codeigniter 3
 15. Git & Github ✅
