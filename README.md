@@ -16,8 +16,8 @@ List apa yang akan saya pelajari dan yang telah saya pelajari di channel web pro
 10. PHP Object Oriented ✅
 11. PHP MVC ✅
 12. sweet alert ✅
-13. Rest API
-14. Codeigniter 3
+13. Rest API ✅
+14. Codeigniter 3 ✅
 15. Git & Github ✅
 16. Laravel 5.8
 17. JavaScript Lanjutan
